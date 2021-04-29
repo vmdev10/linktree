@@ -36,8 +36,8 @@
       <div class="info-content">
         <a class="social-link btn effect" href="https://github.com/vmdev10" role="button">Github</a>
         <a class="social-link btn" href="https://www.instagram.com/mouraanav/" role="button">Instagram</a>
-        <a class="social-link btn" href="#https://www.linkedin.com/in/vit%C3%B3ria-moura-9924031b5/" role="button">LinkedIn</a>
-        <a class="social-link btn" href="#" role="button"
+        <a class="social-link btn" href="https://www.linkedin.com/in/vit%C3%B3ria-moura-9924031b5/" role="button">LinkedIn</a>
+        <a class="social-link btn" href="https://github.com/vmdev10/linktree/tree/master/linktree" role="button"
           >Código desta página</a
         >
       </div>
