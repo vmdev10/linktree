@@ -107,6 +107,11 @@ body {
   width: 100%;
 }
 
+.dark-button {
+  position: absolute;
+  right: 1rem;
+}
+
 .card {
   width: 31.25rem;
   height: calc(100vh - 20px);
@@ -206,10 +211,5 @@ body {
 }
 .social-link:hover:before {
   width: 100%;
-}
-
-.dark-button {
-  position: absolute;
-  right: 1rem;
 }
 </style>
